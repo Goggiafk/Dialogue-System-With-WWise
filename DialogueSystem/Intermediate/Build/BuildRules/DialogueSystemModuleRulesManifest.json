@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\goggi\\Documents\\Unreal Projects\\Dialogue-System-With-WWise\\DialogueSystem\\Source\\DialogueSystem\\DialogueSystem.Build.cs",
+		"C:\\Users\\goggi\\Documents\\Unreal Projects\\Dialogue-System-With-WWise\\DialogueSystem\\Source\\DialogueSystem.Target.cs",
+		"C:\\Users\\goggi\\Documents\\Unreal Projects\\Dialogue-System-With-WWise\\DialogueSystem\\Source\\DialogueSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

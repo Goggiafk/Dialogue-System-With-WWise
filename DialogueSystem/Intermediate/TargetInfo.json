@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DialogueSystem",
+			"Path": "..\\Source\\DialogueSystem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DialogueSystemEditor",
+			"Path": "..\\Source\\DialogueSystemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

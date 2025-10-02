@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DialogueSystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DialogueSystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DialogueSystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DialogueSystem">
+      <UniqueIdentifier>{03497D52-DB9E-3B85-9C45-B087455F05B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DialogueSystem\DialogueSystem.Build.cs">
+      <Filter>Source\DialogueSystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystem.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystem.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemCharacter.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemCharacter.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemGameMode.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemGameMode.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemPickUpComponent.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemPickUpComponent.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemProjectile.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemProjectile.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemWeaponComponent.cpp">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\DialogueSystemWeaponComponent.h">
+      <Filter>Source\DialogueSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

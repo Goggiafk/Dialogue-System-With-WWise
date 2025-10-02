@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogueSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\DialogueSystemEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystem.init.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemCharacter.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemGameMode.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemPickUpComponent.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemProjectile.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemWeaponComponent.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystem.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemCharacter.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemGameMode.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemPickUpComponent.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemProjectile.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\DialogueSystemWeaponComponent.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\PerModuleInline.gen.cpp.obj"
+"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\Default.rc2.res"
+/OUT:"C:\Users\goggi\Documents\Unreal Projects\Dialogue-System-With-WWise\DialogueSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSystem\UnrealEditor-DialogueSystem.lib"
